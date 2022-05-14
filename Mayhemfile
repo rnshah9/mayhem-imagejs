@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-imagejs
+target: imagejs
+
+cmds:
+  - cmd: /repo/build/imagejs bmp @@
+    filepath: /test.js
